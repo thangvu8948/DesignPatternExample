@@ -1,4 +1,4 @@
-package com.akashi.FactoryMethod;
+package com.akashi.CreationalPattern.FactoryMethod;
 
 public class VietComBank implements Bank{
     @Override

@@ -1,4 +1,4 @@
-package com.akashi.FactoryMethod;
+package com.akashi.CreationalPattern.FactoryMethod;
 
 public class TPBank implements Bank{
 

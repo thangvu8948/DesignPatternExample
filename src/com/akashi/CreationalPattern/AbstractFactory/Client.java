@@ -1,4 +1,4 @@
-package com.akashi.AbstractFactory;
+package com.akashi.CreationalPattern.AbstractFactory;
 
 public class Client {
     public static void main(String[] args) {
